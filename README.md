@@ -1,2 +1,2 @@
 # online-shop
-Online Shop
+Online Shop DevOps tutorial for PHP based application
